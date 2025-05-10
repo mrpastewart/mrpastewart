@@ -2,11 +2,12 @@
 
 #### A Transportation Specialist by day ☼ and a Full-Stack Developer by night ☾
 
-Full-Stack Developer at [Protevus](https://protevus.com);<br>
+Full-Stack Developer at [Vieo](https://vieo.ai);<br>
 Organizing [Dart-Fig Community](https://dart-fig.org);<br>
-Host [Protevus Community](https://protevus.org);<br>
+Host [Vieo Community](https://vieo.dev);<br>
 
-- ⚙️ I use daily: `.dart`, `.flutter`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🛠️ I use daily: `.dart 🎯`, `.flutter 🐦`, `.python 🐍`, `.typescript 🔷`, `.html 🕸️`, `.css 🕸️`, `.ai 🤖`
+- 🧬 Flavors: `.php 🐘`, `.rust 🦀`, `.go 🐹`, `.kotlin 🧭`, `.swift 🦅`, `.java 🔥`, `.c# 🎼`, `.c++ ⚙️`
 - 🌍 I'm mostly active within the **Dart & Flutter Community**
-- 💅 Interest: @protevus, @dart-fig etc…
-- 💬 `ping` me about **design**, **protevus**, **dart**, **unified development**, **design thinking**
+- 💅 Interest: @vieo-ai, @dart-fig etc…
+- 💬 `ping` me about **design**, **vieo**, **dart**, **unified development**, **design thinking**, **ai**
